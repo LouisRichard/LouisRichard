@@ -1,6 +1,6 @@
 ### Hi there 👋  
 The Name is Louis. I'm a computer science student.  
-Currently, I'm working on more "artistic" projects ;)
+Currently, I'm working on learning how to use Arch Linux on my laptop.
 
 I've master the art of procrastination and being late is what you should expect from me ;)  
 

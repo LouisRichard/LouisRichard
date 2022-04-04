@@ -5,6 +5,13 @@ You can find out more about me on my [website](https://louisrichard.github.io/) 
 Or you can contact me at louis.richard@tutanota.com :) I may be slow but I try to check my emails everyday.
 
 ****
+
+Current project
+
+* Using linux more optimally on my old-ass laptop from '08
+* TPI to finally get my computer science degree 
+
+****
 Langages that I'm alright with 
 
 <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>

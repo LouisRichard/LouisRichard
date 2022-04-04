@@ -30,7 +30,7 @@ Linux distros
 
 Distributions I'm slowly learning to use  
 
-<img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-purple.svg?&style=for-the-badge&logo=gentoo&logoColor=white"/>
+<img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-purple.svg?&style=for-the-badge&logo=gentoo&logoColor=white"/> But the installation is even more painful than Arch
 
 ****
 Systems  

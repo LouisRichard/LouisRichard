@@ -6,7 +6,7 @@ Or you can contact me at louis.richard@tutanota.com :) I may be slow but I try t
 
 ****
 
-Current project
+Current projects
 
 * Using linux more optimally on my old-ass laptop from '08
 * TPI to finally get my computer science degree 

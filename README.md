@@ -1,8 +1,7 @@
 ### Hi there 👋  
-The Name is Louis. I'm a computer science student.  
+The Name is Louis. I'm a CS student at the CPNV in Switzerland
 
-You can find out more about me on my [website](https://louisrichard.github.io/) hosted with [GitHub Pages](https://pages.github.com/)  
-Or you can contact me at louis.richard@tutanota.com :) I may be slow but I try to check my emails everyday.
+[<img alt="Website" src="https://img.shields.io/badge/Website-black.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://louisrichard.github.io/)[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/louis-richard-8079b21a3)[<img alt="BitBucket" src="https://img.shields.io/badge/Bitbucket-darkblue.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>](https://bitbucket.org/LouisRichard/)
 
 ****
 

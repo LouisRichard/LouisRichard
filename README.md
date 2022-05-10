@@ -29,7 +29,7 @@ Linux distros
 
 Distributions I'm slowly learning to use  
 
-<img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-purple.svg?&style=for-the-badge&logo=gentoo&logoColor=white"/> Nvidia, istg...
+<img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-purple.svg?&style=for-the-badge&logo=gentoo&logoColor=white"/> Maybe installing on a dual core wasn't the best idea
 ****
 Systems  
 

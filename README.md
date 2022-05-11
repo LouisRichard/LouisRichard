@@ -7,7 +7,7 @@ The Name is Louis. I'm a CS student at the CPNV in Switzerland
 
 Current projects
 
-* Using linux more optimally on my old-ass laptop from '08
+* Optimising my Gentoo install on my Precision M4300 just to watch Netflix
 * TPI to finally get my computer science degree 
 
 ****

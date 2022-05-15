@@ -17,7 +17,7 @@ Langages that I'm alright with
 
 Langages I'm learning  
 
-<img alt="javascript" src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white"/><img alt="C" src="https://img.shields.io/badge/C-green.svg?&style=for-the-badge&logo=C&logoColor=white"/><img alt="python" src="https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="javascript" src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white"/><img alt="C" src="https://img.shields.io/badge/C-lightgrey.svg?&style=for-the-badge&logo=C&logoColor=white"/><img alt="python" src="https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/C++-hotpink.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white"/>
 ****
 Operating Systems  
 

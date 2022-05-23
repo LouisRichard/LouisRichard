@@ -7,8 +7,8 @@ The Name is Louis. I'm a CS student at the CPNV in Switzerland
 
 Current projects
 
-* Optimising my Gentoo install on my Precision M4300 just to watch Netflix
 * TPI to finally get my computer science degree 
+* I really need a new NAS 
 
 ****
 Langages that I'm alright with 
@@ -29,7 +29,8 @@ Linux distros
 
 Distributions I'm slowly learning to use  
 
-<img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-purple.svg?&style=for-the-badge&logo=gentoo&logoColor=white"/> I can now watch Netflix on a Dell Precision M4300!
+<img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-purple.svg?&style=for-the-badge&logo=gentoo&logoColor=white"/>
+
 ****
 Systems  
 

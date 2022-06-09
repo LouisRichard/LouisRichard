@@ -1,5 +1,5 @@
 ### Hi there 👋  
-The Name is Louis. I'm a CS student at the CPNV in Switzerland
+The Name is Louis. I convert caffeine into anger and sometimes code
 
 [<img alt="Website" src="https://img.shields.io/badge/Website-black.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://louisrichard.github.io/)[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/louis-richard-8079b21a3)[<img alt="BitBucket" src="https://img.shields.io/badge/Bitbucket-darkblue.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>](https://bitbucket.org/LouisRichard/)
 
@@ -9,6 +9,7 @@ Current projects
 
 * TPI to finally get my computer science degree 
 * I really need a new NAS 
+* And I really need to put NextCloud on my NAS
 
 ****
 Langages that I'm alright with 

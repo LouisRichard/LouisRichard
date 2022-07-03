@@ -7,7 +7,7 @@ The Name is Louis. I convert caffeine into anger and sometimes code
 
 Current projects
 
-* TPI to finally get my computer science degree 
+* Get a job idk
 * I really need a new NAS 
 * And I really need to put NextCloud on my NAS
 

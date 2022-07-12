@@ -28,10 +28,6 @@ Linux distros
 
 <img alt="debian" src="https://img.shields.io/badge/Debian-darkred.svg?&style=for-the-badge&logo=debian&logoColor=white"/><img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-orange.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/><img alt="Mint" src="https://img.shields.io/badge/Mint-green.svg?&style=for-the-badge&logo=linux-mint&logoColor=white"/><img alt="arch" src="https://img.shields.io/badge/Arch-blue.svg?&style=for-the-badge&logo=Arch-linux&logoColor=white"/><img alt="manjaro" src="https://img.shields.io/badge/Manjaro-green.svg?&style=for-the-badge&logo=manjaro&logoColor=white"/>
 
-Distributions I'm slowly learning to use  
-
-<img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-purple.svg?&style=for-the-badge&logo=gentoo&logoColor=white"/>
-
 ****
 Systems  
 

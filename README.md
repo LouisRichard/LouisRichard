@@ -9,7 +9,8 @@ Current projects
 
 * Get a job idk
 * I really need a new NAS 
-* And I really need to put NextCloud on my NAS
+* And I really need to put NextCloud on my NAS  
+* Running a 14yo laptop is getting kinda old
 
 ****
 Langages that I'm alright with 

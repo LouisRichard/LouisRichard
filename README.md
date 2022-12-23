@@ -7,11 +7,10 @@ The Name is Louis. I convert caffeine into anger and sometimes code
 
 Current projects
 
-* Get a job idk
+* Get a job idk  
 * I really need a new NAS 
 * And I really need to put NextCloud on my NAS  
-* Running a 14yo laptop is getting kinda old  
-* Using a dotmatrix printer as a TTY
+* Fixing this cursed MacBook that crashes if it's not on an even surface  
 
 ****
 Langages that I'm alright with 

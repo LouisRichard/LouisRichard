@@ -25,7 +25,7 @@ Langages I'm learning
 ****
 Operating Systems  
 
-<img alt="Linux" src="https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=linux&logoColor=white"/><img alt="Windows" src="https://img.shields.io/badge/Windows-blue.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=linux&logoColor=white"/><img alt="Windows" src="https://img.shields.io/badge/Windows-blue.svg?&style=for-the-badge&logo=windows&logoColor=white"/><img alt="MacOS" src="https://img.shields.io/badge/osx-white.svg?&style=for-the-badge&logo=apple&logoColor=black"/>
 
 Linux distros  
 

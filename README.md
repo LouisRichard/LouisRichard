@@ -9,8 +9,7 @@ My thing is taking old and obselete machines and giving them a new life. That go
 Current projects
 
 * Get a job idk
-* Finish my [website](https://richard486.ch/)
-* Replace display cable on Thinkpad X60    
+* Finish my [website](https://richard486.ch/)  
 * Replace logic board in 1502 MacBook Pro
 * Configure my NAS  
 

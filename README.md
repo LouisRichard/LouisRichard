@@ -10,7 +10,8 @@ Current projects
 
 * Get a job idk
 * Finish my [website](https://richard486.ch/)  
-* Replace logic board in 1502 MacBook Pro
+* Replace CPUs in Mac Pro 4,1
+* Replace GPU in Mac Pro 4,1
 * Configure my NAS  
 
 ****

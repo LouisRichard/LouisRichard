@@ -10,8 +10,8 @@ Current projects
 
 * Get a job idk
 * Finish my [website](https://richard486.ch/)  
-* Replace CPUs in Mac Pro 4,1
 * Replace GPU in Mac Pro 4,1
+* Have Pipewire working on the Linux Workstation
 * Configure my NAS  
 
 ****

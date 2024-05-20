@@ -34,7 +34,7 @@ Linux distros
 ****
 Systems  
 
-<img alt="Apache" src="https://img.shields.io/badge/Apache-darkred.svg?&style=for-the-badge&logo=apache&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/MySQL-darkblue.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Apache" src="https://img.shields.io/badge/Apache-darkred.svg?&style=for-the-badge&logo=apache&logoColor=white"/><img alt="MySQL" src="https://img.shields.io/badge/MySQL-darkblue.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img alt="WinSrv" src="https://img.shields.io/badge/WinSrv-blue.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
 
 ****
 

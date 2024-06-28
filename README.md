@@ -11,7 +11,7 @@ Current projects
 * Get a job idk
 * Finish my [website](https://richard486.ch/)  
 * Replace GPU in Mac Pro 4,1
-* Configure my NAS  
+* Build a new server (made a brick out of the last one)  
 
 ****
 Langages that I'm alright with 

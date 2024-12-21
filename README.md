@@ -11,7 +11,7 @@ Current projects
 * Get a job idk
 * Finish my [website](https://richard486.ch/)  
 * Build a new server (made a brick out of the last one)
-* Build a new Linux/MacOS workstation
+* ~~Build a new Linux/MacOS workstation~~ (Blog post coming soon if everything goes well)  
 
 ****
 Langages that I'm alright with 

@@ -8,7 +8,7 @@ My thing is taking old and obselete machines and giving them a new life. That go
 
 Current projects
 
-* Get a job idk
+* ~~Get a job idk~~ :)
 * Finish my [website](https://richard486.ch/)  
 * Build a new server (made a brick out of the last one)
 * ~~Build a new Linux/MacOS workstation~~ (Blog post coming soon if everything goes well)  
